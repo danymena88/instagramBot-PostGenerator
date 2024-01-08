@@ -16,7 +16,7 @@
 
 ---
 
-- [Introduction](#introducción)
+- [Introduction](#Creador-y-Programador-de-Publicaciones-para-Instagram)
 - [Requirements](#requirements)
 - [How to Use Repo](#how-to-use-repo)
   - [Star and Fork this Repo](#star-and-fork-this-repo)

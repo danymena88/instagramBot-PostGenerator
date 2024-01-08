@@ -58,6 +58,8 @@ Al momento de crear la imagen a publicar el software elige una frase al azar de 
 
 A continuación te mostraré el funcionamiento este software.
 
+![frases-para-instagram](https://smartwebtutoriales.com/github/frases-para-instagram-bot.png)
+
 ## Aclaraciones
 
 ¡¡ ACLARACIÓN !!

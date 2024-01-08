@@ -36,13 +36,11 @@
       - [Comments](#comments)
       - [Syntax](#syntax)
     - [Arithmetics](#arithmetics)
-  - [Code Editor](#code-editor)
-    - [Installing Visual Studio Code](#installing-visual-studio-code)
-    - [How to Use Visual Studio Code](#how-to-use-visual-studio-code)
-
-<p align="center">🧡 <strong>¿Esta App fué de Ayuda?</strong> 🧡<br>
-<small align="center">Gracias por tu <strong>apoyo</strong>, me ayuda a seguir adelante desarrollando más herramientas para automatizar tu trabajo.</small></p> <br />
-<p align="center"><a href='https://www.buymeacoffee.com/codeffee' target="_blank"><img alt='buy me a coffee' src='https://img.shields.io/badge/Buy_Me a Coffee-100000?style=for-the-badge&logo=buy me a coffee&logoColor=080000&labelColor=F7C602&color=F7C602'/></a></p>
+  - [Code Editor](#code-editor) - [Installing Visual Studio Code](#installing-visual-studio-code) - [How to Use Visual Studio Code](#how-to-use-visual-studio-code)
+  <br>
+  <p align="center">🧡 <strong>¿Esta App fué de Ayuda?</strong> 🧡<br>
+  <small align="center">Gracias por tu <strong>apoyo</strong>, me ayuda a seguir adelante desarrollando más herramientas para automatizar tu trabajo.</small></p>
+  <p align="center"><a href='https://www.buymeacoffee.com/codeffee' target="_blank"><img alt='buy me a coffee' src='https://img.shields.io/badge/Buy_Me a Coffee-100000?style=for-the-badge&logo=buy me a coffee&logoColor=080000&labelColor=F7C602&color=F7C602'/></a></p>
 
 ---
 

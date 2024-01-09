@@ -17,10 +17,10 @@
 ---
 
 - [Intro y Funcionamiento](#Creador-y-Programador-de-Publicaciones-para-Instagram)
-- [Aclaración](#aclaraciones-❗❗❗)
-- [No necesita contraseña](#¡No-ingresaras-tu-contraseña!-💛)
-- [Configuración](#Configuracion-del-Bot-para-Instagram-🤖)
-- [Desarrollo del Software](#Sobre-el-desarrollo-del-Software-💻)
+- [Aclaración](#aclaraci%C3%B3n-)
+- [No necesita contraseña](#no-ingresar%C3%A1s-tu-contrase%C3%B1a-)
+- [Configuración](#configuraci%C3%B3n-del-bot-para-instagram-)
+- [Desarrollo del Software](#sobre-el-desarrollo-del-software-)
 
   <br>
   <p align="center">🧡 <strong>¿Esta App fué de Ayuda?</strong> 🧡<br>

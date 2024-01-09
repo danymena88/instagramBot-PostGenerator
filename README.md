@@ -16,11 +16,11 @@
 
 ---
 
-- [Intro y Funcionamiento](#Creador-y-Programador-de-Publicaciones-para-Instagram)
-- [Aclaración](#aclaraci%C3%B3n-)
-- [No necesita contraseña](#no-ingresar%C3%A1s-tu-contrase%C3%B1a-)
-- [Configuración](#configuraci%C3%B3n-del-bot-para-instagram-)
-- [Desarrollo del Software](#sobre-el-desarrollo-del-software-)
+[Intro y Funcionamiento](#Creador-y-Programador-de-Publicaciones-para-Instagram)
+[Aclaración](#aclaraci%C3%B3n-)
+[No necesita contraseña](#no-ingresar%C3%A1s-tu-contrase%C3%B1a-)
+[Configuración](#configuraci%C3%B3n-del-bot-para-instagram-)
+[Desarrollo del Software](#sobre-el-desarrollo-del-software-)
 
   <br>
   <p align="center">🧡 <strong>¿Esta App fué de Ayuda?</strong> 🧡<br>
@@ -79,8 +79,13 @@ La configuración consiste en 4 pasos:
 1. Prepara tu cuenta para conectarla a la API
 2. Vincular tu cuenta de Instagram con una página de Facebook
 3. Crear una cuenta en ImgBB (gratis)
-4. Configurar la API
+4. Configurar la API de Facebook
 5. Aplicar las API keys al software
+
+Mira el siguiente video donde explico detalladamente cómo configurar este software para dejarlo funcionando al 100%.
+
+![frases-para-instagram](https://smartwebtutoriales.com/github/miniatura-frases-para-instagram.png)
+<br><br>
 
 ## Sobre el desarrollo del Software 💻
 
@@ -101,4 +106,4 @@ requests                  2.26.0
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-🎉 CONGRATULATIONS ! 🎉
+🎉 Felicidades, Ya tienes configurado tu publicador de Frases! 🎉

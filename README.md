@@ -54,7 +54,18 @@ Al momento de crear la imagen a publicar el software elige una frase al azar de 
 
 A continuación te mostraré el funcionamiento este software.
 
-![frases-para-instagram](https://smartwebtutoriales.com/github/frases-para-instagram-bot.png)
+![frases-para-instagram](https://smartwebtutoriales.com/github/frases-para-instagram-bot-2.png)
+<br>
+
+1. El programa tiene 3 paneles para programar publicaciones pero puedes programar más de 3 publicaciones en diferentes dias y horas. Por ejemplo en el campo "Día" puedes colocar del cero al seis donde cero es igual a lunes y seis es igual a domingo pero puedes colocar un rango de 0-2 que significa de lunes a miércoles. De la misma forma se puede usar para los campos "Hora" y "Minuto". Si colocas el símbolo "\*" significa "Todos los dias, o lo que es igual a: de lunes a domingo".
+
+2. Después de programar las publicaciones das clic en "Guardar" y abajo del botón podrás ver la información de las tareas programadas.
+
+3. En este campo puede colocar el caption o el copy de la publicación, puedes colocar hashtags o texto simple.
+
+4. Después de colocar el caption de la publicación das clic en "Guardar Texto" para que el texto quede guardado (a pesar que cierres la app) y pueda usarse en otras publicaciones programadas. El botón "Publicar" es para publicar inmediatamente y no esperar hasta la hora programada.
+
+5. En la barra lateral encontrarás el logo de la marca que he creado para las herramientas que desarrollo y puedes darle clic para ver más información. También verás algunas instrucciones para tener siempre presente el formato que debes utilizar, y el boton de "Tema" es para elegir entre el tema oscuro o claro.
 
 ## Aclaraciones
 

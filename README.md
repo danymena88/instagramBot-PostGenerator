@@ -16,11 +16,11 @@
 
 ---
 
-[Intro y Funcionamiento](#Creador-y-Programador-de-Publicaciones-para-Instagram)
-[Aclaración](#aclaraci%C3%B3n-)
-[No necesita contraseña](#no-ingresar%C3%A1s-tu-contrase%C3%B1a-)
-[Configuración](#configuraci%C3%B3n-del-bot-para-instagram-)
-[Desarrollo del Software](#sobre-el-desarrollo-del-software-)
+[Intro y Funcionamiento](#Creador-y-Programador-de-Publicaciones-para-Instagram)<br>
+[Aclaración](#aclaraci%C3%B3n-)<br>
+[No necesita contraseña](#no-ingresar%C3%A1s-tu-contrase%C3%B1a-)<br>
+[Configuración](#configuraci%C3%B3n-del-bot-para-instagram-)<br>
+[Desarrollo del Software](#sobre-el-desarrollo-del-software-)<br>
 
   <br>
   <p align="center">🧡 <strong>¿Esta App fué de Ayuda?</strong> 🧡<br>
@@ -28,6 +28,8 @@
   <p align="center"><a href='https://www.buymeacoffee.com/codeffee' target="_blank"><img alt='buy me a coffee' src='https://img.shields.io/badge/Buy_Me a Coffee-100000?style=for-the-badge&logo=buy me a coffee&logoColor=080000&labelColor=F7C602&color=F7C602'/></a></p>
 
 ---
+
+<br>
 
 ## Creador y Programador de Publicaciones para Instagram
 

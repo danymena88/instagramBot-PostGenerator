@@ -55,12 +55,14 @@ Funcionamiento
 4. Después de colocar el caption de la publicación das clic en "Guardar Texto" para que el texto quede guardado (a pesar que cierres la app) y pueda usarse en otras publicaciones programadas. El botón "Publicar" es para publicar inmediatamente y no esperar hasta la hora programada.
 
 5. En la barra lateral encontrarás el logo de la marca que he creado para las herramientas que desarrollo y puedes darle clic para ver más información. También verás algunas instrucciones para tener siempre presente el formato que debes utilizar, y el boton de "Tema" es para elegir entre el tema oscuro o claro.
-   <br>
+   <br><br>
 
 ## Aclaración ❗❗❗
 
 ¡¡ ACLARACIÓN !!
 Este software NO requiere que ingreses tus credenciales de instagram (usuario o contraseña) para funcionar, trabaja usando el servicio oficial de Facebook (Instagram API), eso garantiza que tu cuenta NO será bloqueada por Instagram al usar este bot como sucede con otros bots de internet.
+
+<br><br>
 
 ## ¡No ingresarás tu contraseña! 💛
 
@@ -73,6 +75,8 @@ El software que te presento en este repositorio usa la API de Facebook para cone
 La única restricción que pone la API de Facebook es que no podemos pasar de 50 publicaciones diaras a través de la API, pero seamos sinceros, difícilmente llegaremos a esa cifra 😁
 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+<br><br>
 
 ## Configuración del Bot para Instagram 🤖
 

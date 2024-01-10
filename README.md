@@ -55,6 +55,8 @@ Funcionamiento
 4. Después de colocar el caption de la publicación das clic en "Guardar Texto" para que el texto quede guardado (a pesar que cierres la app) y pueda usarse en otras publicaciones programadas. El botón "Publicar" es para publicar inmediatamente y no esperar hasta la hora programada.
 
 5. En la barra lateral encontrarás el logo de la marca que he creado para las herramientas que desarrollo y puedes darle clic para ver más información. También verás algunas instrucciones para tener siempre presente el formato que debes utilizar, y el boton de "Tema" es para elegir entre el tema oscuro o claro.
+
+<p color="red">Agregar info sobre las frases y foto, foto de la imagen a publicar, foto de la pystray y su menu.</p>
    <br><br>
 
 ## Aclaración ❗❗❗

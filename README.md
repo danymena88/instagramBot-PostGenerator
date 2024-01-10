@@ -92,7 +92,7 @@ La configuración consiste en 4 pasos:
 
 Mira el siguiente video donde explico detalladamente cómo configurar este software para dejarlo funcionando al 100%.
 
-![frases-para-instagram](https://smartwebtutoriales.com/github/miniatura-frases-para-instagram.png)
+[![frases-para-instagram](https://smartwebtutoriales.com/github/miniatura-frases-para-instagram.png)](https://www.youtube.com/@codeffee_)
 <br><br>
 
 ## Sobre el desarrollo del Software 💻

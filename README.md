@@ -56,8 +56,8 @@ Funcionamiento
 
 5. En la barra lateral encontrarás el logo de la marca que he creado para las herramientas que desarrollo y puedes darle clic para ver más información. También verás algunas instrucciones para tener siempre presente el formato que debes utilizar, y el boton de "Tema" es para elegir entre el tema oscuro o claro.
 
-![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge)Agregar info sobre las frases y foto, foto de la imagen a publicar, foto de la pystray y su menu.
-   <br><br>
+![[Intro y Funcionamiento](#Creador-y-Programador-de-Publicaciones-para-Instagram)](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge)Agregar info sobre las frases y foto, foto de la imagen a publicar, foto de la pystray y su menu.
+<br><br>
 
 ## Aclaración ❗❗❗
 

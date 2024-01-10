@@ -56,7 +56,25 @@ Funcionamiento
 
 5. En la barra lateral encontrarás el logo de la marca que he creado para las herramientas que desarrollo y puedes darle clic para ver más información. También verás algunas instrucciones para tener siempre presente el formato que debes utilizar, y el boton de "Tema" es para elegir entre el tema oscuro o claro.
 
-![[Intro y Funcionamiento](#Creador-y-Programador-de-Publicaciones-para-Instagram)](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge)Agregar info sobre las frases y foto, foto de la imagen a publicar, foto de la pystray y su menu.
+<br>
+
+Una vez se cumpla la hora programada la imagen se publica con una frase como lo puedes ver en la siguiente imagen.
+<br>
+
+![frases-para-instagram](<https://smartwebtutoriales.com/github/image(7).jpg>)
+
+Esta es la plantilla (el archivo llamado "plantilla") que usa el programa para agregar la frase, la puedes ver en los archivos del programa y la puedes modificar o editar a tu antojo para agregar el fondo que desees (sólo recuerda que debe ser png con la misma resolución 800x800).
+
+![frases-para-instagram](<https://smartwebtutoriales.com/github/image(9).jpg>)
+
+También las frases que encontrarás por defecto se pueden cambiar o modificar y agregar más frases entrando al archivo "frases.json" pero recuerda respetar el formato en el que se encuentran (las frases entre comillas separadas por coma, todas dentro de corchetes).
+
+![frases-para-instagram](<https://smartwebtutoriales.com/github/image(8).jpg>)
+
+Por último, debes saber que la idea del programa es que funcione en segundo plano y que tu puedas trabajar en tu computadora mientras en segundo plano el programa publica las frases en tu cuenta de Instagram, para esto puedes simplemente cerrar el programa y este se minimizará en la bandeja del tray y podrás restaurarlo o cerrarlo definitivamente haciendo clic derecho para que se expanda el menú.
+
+![frases-para-instagram](<https://smartwebtutoriales.com/github/image(10).jpg>)
+
 <br><br>
 
 ## Aclaración ❗❗❗
@@ -90,7 +108,7 @@ La configuración consiste en 4 pasos:
 4. Configurar la API de Facebook
 5. Aplicar las API keys al software
 
-Mira el siguiente video donde explico detalladamente cómo configurar este software para dejarlo funcionando al 100%.
+Mira el siguiente video donde explico detalladamente cómo configurar este software para dejarlo funcionando al 100% (clic en la imagen).
 
 [![frases-para-instagram](https://smartwebtutoriales.com/github/miniatura-frases-para-instagram.png)](https://www.youtube.com/@codeffee_)
 <br><br>
